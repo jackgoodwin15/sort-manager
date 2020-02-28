@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e02daf7e-b014-4460-a172-3875878383ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W7Bh55MrOfirCBm572sIqeo8l3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MergeSort" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.jg.Main" />
+      <module name="BubbleSort" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e02daf7e-b014-4460-a172-3875878383ac" name="Default Changelist" comment="" />
+      <created>1578490868852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578490868852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1578496023597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578496023597" />
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1582889194885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578648575827" />
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582889194885" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom" timestamp="1579771446891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578557695103" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579771446891" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center" timestamp="1579771446891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578557695103" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579771446891" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left" timestamp="1579771446891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578557695102" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579771446891" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right" timestamp="1579771446891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578557695103" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579771446891" />
+    <state x="465" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1580143105106">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578648548638" />
+    <state x="465" y="250" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580143105106" />
+    <state x="209" y="36" key="new project wizard" timestamp="1580143168334">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578563402969" />
+    <state x="209" y="36" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1580143168334" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1579175639695">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1579175639695" />
+  </component>
+</project>
